@@ -267,9 +267,9 @@ defaults:
       show_dates: true
       layout: single
       author_profile: true
-      read_time: false
-      comments: # true
-      share: false
+      read_time: true
+      comments: false
+      share: true
       related: false
 
   # _pages
