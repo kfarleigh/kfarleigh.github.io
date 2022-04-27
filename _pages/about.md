@@ -7,7 +7,7 @@ permalink: /about/
 [The Jezkova Lab](https://caloprymnus.com/), Miami University (OH)
 
 ### Education
-B.A. – Biology, Capital University, Columbus, OH, 2018  
+B.A. – Biology, Capital University, 2018  
 
 ### Research Interests
 - Genomics of local adaptation 
