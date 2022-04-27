@@ -264,6 +264,7 @@ defaults:
       path: ""
       type: posts
     values:
+      show_dates: true
       layout: single
       author_profile: true
       read_time: false
