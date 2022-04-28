@@ -8,7 +8,7 @@ main:
     url: /publications/
   - title: "Blog"
     url: /blog/
-  - title: "Github"
-    url: /github/
+  - title: "Code"
+    url: /code/
   - title: "Contact"
     url: /contact/
