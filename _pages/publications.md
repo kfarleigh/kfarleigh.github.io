@@ -19,7 +19,7 @@ Finger, N., __Farleigh, K.__, Bracken, J. T., Leaché, A. D., François, O., Yan
 __Farleigh, K.__, Vladimirova, S. A., Blair, C., Bracken, J. T., Koochekian, N., Schield, D. R., ... & Jezkova, T. (2021). The effects of climate and demographic history in shaping genomic variation across populations of the Desert Horned Lizard (_Phrynosoma platyrhinos_). __*Molecular Ecology*__, 30(18), 4481-4496. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16070)
 
 
-Santibáñez-López, C. E., __Farleigh__, K., Cushing, P. E., & Graham, M. R. (2021). Restriction enzyme optimization for RADseq with camel spiders (Arachnida: _Solifugae_). __*The Journal of Arachnology*__, 48(3), 346-350. [Link](https://bioone.org/journals/the-journal-of-arachnology/volume-48/issue-3/JoA-S-20-040/Restriction-enzyme-optimization-for-RADseq-with-camel-spiders-Arachnida/10.1636/JoA-S-20-040.short)
+Santibáñez-López, C. E., __Farleigh, K.__, Cushing, P. E., & Graham, M. R. (2021). Restriction enzyme optimization for RADseq with camel spiders (Arachnida: _Solifugae_). __*The Journal of Arachnology*__, 48(3), 346-350. [Link](https://bioone.org/journals/the-journal-of-arachnology/volume-48/issue-3/JoA-S-20-040/Restriction-enzyme-optimization-for-RADseq-with-camel-spiders-Arachnida/10.1636/JoA-S-20-040.short)
 
 ## 2018
 
