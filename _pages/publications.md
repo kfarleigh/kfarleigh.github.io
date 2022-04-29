@@ -23,4 +23,4 @@ Santibáñez-López, C. E., __Farleigh__, K., Cushing, P. E., & Graham, M. R. (2
 
 ## 2018
 
-__Farleigh, K.__ (2018). Genetic estimates of migration for white-footed mice (Peromyscus leucopus) at the Primmer Outdoor Learning Center. __*2018 NCUR Proceedings*__. [Link](http://libjournals.unca.edu/ncur/)
+__Farleigh, K.__ (2018). Genetic estimates of migration for white-footed mice (Peromyscus leucopus) at the Primmer Outdoor Learning Center. __*2018 NCUR Proceedings*__. [Link](http://libjournals.unca.edu/ncur/wp-content/uploads/2021/03/Farleigh-Keaka-FINAL-m.pdf)
