@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: "Code"
 permalink: /code/
 classes: wide
