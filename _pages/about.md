@@ -10,7 +10,7 @@ permalink: /about/
 B.A. – Biology, Capital University, 2018  
 
 ### Research Interests
-- Genomics of local adaptation 
+- Local adaptation
 - Hybridization 
-- Developing bioinformatic tools 
-- Phylogeography
+- Bioinformatics
+- Population genomics
