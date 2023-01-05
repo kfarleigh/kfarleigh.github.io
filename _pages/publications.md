@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 permalink: /publications/
 title: "Publications"
 classes: wide
