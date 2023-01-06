@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Hi!"
 author: Keaka Farleigh
 date: 2023-01-05
