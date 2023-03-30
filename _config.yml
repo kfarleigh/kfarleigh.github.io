@@ -90,6 +90,13 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
+# Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kfarleigh"
+
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
@@ -268,7 +275,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: false
+      comments: true
+      show_date: true
       share: true
       related: false
 
