@@ -5,7 +5,7 @@
 /*
    Default button
    ========================================================================== */
-$primary-color: #007FFF;
+
 .btn {
   /* default */
   display: inline-block;
@@ -30,7 +30,7 @@ $primary-color: #007FFF;
 
   /* button colors */
   $buttoncolors:
-  (primary, $primary-color),
+  (primary, #007FFF),
   (inverse, #fff),
   (light-outline, transparent),
   (success, $success-color),
