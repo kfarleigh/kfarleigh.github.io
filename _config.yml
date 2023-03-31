@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Keaka Farleigh"
-  avatar           : 
+  avatar           : /images/Headshot.JPG
   bio              : "PhD candidate studying bioinformatics, data science, and population genomics"
   location         : "Miami University (OH)"
   email            : "farleik@miamioh.edu"
