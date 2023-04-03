@@ -4,10 +4,16 @@ permalink: /code/
 classes: wide
 ---
 
+## R packages 
+[PopGenHelpR](https://kfarleigh.github.io/PopGenHelpR/){: .btn .btn--info .text-center}
+
+An R package to estimate commonly used population genomic statistics and to generate publication quality figures. 
+
 [HybridFindR](https://github.com/kfarleigh/HybridFindR){: .btn .btn--info .text-center}
 
 An R package to detect singals of differential introgression in hybrid individuals. This package is still under development and the associated paper is in review.
 
+## Scripts and Workshop Code 
 [GEApermutation](https://github.com/kfarleigh/GEApermutation){: .btn .btn--info .text-center}
 
 Code to perform a statistical test to identify differential signals of local adaptation. This code is not yet public as the paper is still under review. 
