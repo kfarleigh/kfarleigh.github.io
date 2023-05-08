@@ -8,7 +8,8 @@ I am slowly developing a book that covers topics in population genetics/genomics
 The book is available [here](https://kfarleigh.github.io/ResearchersGuideToPopulationGenomics/), see the url below it the hyperlink isn't working.
 
 **URL**
- https://kfarleigh.github.io/ResearchersGuideToPopulationGenomics/
+
+https://kfarleigh.github.io/ResearchersGuideToPopulationGenomics/
 
 ## Drafted Chapters
 - Preface
