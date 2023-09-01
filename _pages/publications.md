@@ -7,6 +7,9 @@ author_profile: true
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=ZKbwA2oAAAAJ&hl=en){: .btn .btn--info .text-center}
 
+## 2023 
+__Farleigh, K.,__ & Jezkova, T. Genetic signals of local adaptation in a desert rodent that occupies diverse climates and habitats. __*Accepted at Landscape Ecology*__
+
 ## 2022
 
 Koochekian, N., Ascanio, A., __Farleigh, K.__, Card, D. C., Schield, D. R., Castoe, T. A., & Jezkova, T. (2022). A chromosome-level genome assembly and annotation of the desert horned lizard, _Phrynosoma platyrhinos_, provides insight into chromosomal rearrangements among reptiles. __*GigaScience*__, 11. [Link](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giab098/6521878?login=true)
