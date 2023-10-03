@@ -8,7 +8,10 @@ author_profile: true
 [Google Scholar Profile](https://scholar.google.com/citations?user=ZKbwA2oAAAAJ&hl=en){: .btn .btn--info .text-center}
 
 ## 2023 
-__Farleigh, K.,__ & Jezkova, T. Genetic signals of local adaptation in a desert rodent that occupies diverse climates and habitats. __*Accepted at Landscape Ecology*__. [Link](https://www.ncbi.nlm.nih.gov/bioproject/780191) [Sequence Data](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1013576)
+
+__Farleigh, K.,__ Ascanio, A., Farleigh, M.E., Schield, D.R., Card, D.C., Leal, M., Castoe, T.A., ... & Rodriguez-Robles, J.A. Signals of differential introgression in the genome of natural hybrids of Caribbean anoles. __*Accepted at Molecular Ecology*__.
+
+__Farleigh, K.,__ & Jezkova, T. Genetic signals of local adaptation in a desert rodent that occupies diverse climates and habitats. __*Landscape Ecology*__. [Link](https://www.ncbi.nlm.nih.gov/bioproject/780191) [Sequence Data](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1013576)
 
 ## 2022
 
