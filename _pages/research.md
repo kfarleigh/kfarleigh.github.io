@@ -3,7 +3,7 @@ title: "Research"
 permalink: /research/
 ---
 I seek to understand how genomic variation is influenced and to understand how genomic elements interact. I explore these topics with a variety of bioinformatic techniques, including next generation sequencing (RNA-seq, RAD-seq, Exome sequencing) and different statistical analyses (Bayesian, Frequentist, machine learning).
-## Bioinformatics <img align="right" src="/images/Software_HexStickers.png"  width="175px" height="225px">
+## Bioinformatics <img align="right" src="/images/Software_HexStickers.png"  width="200px" height="250px">
 Genomic scale datasets are becoming the standard in modern biology. Understanding how to process and analyze this data is critical. My research focuses on developing tools and resources that allow researchers to analyze their data and understand how the methods work. Work has included developing an R package to identify signals of differential introgression and a pipeline to identify signatures of local adaptation.
 
 ## Local Adaptation
