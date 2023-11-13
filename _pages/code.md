@@ -19,11 +19,11 @@ An R package to detect signals of differential introgression in hybrid individua
 
 Code to perform a statistical test to identify differential signals of local adaptation. 
 
-[AnolisSims](https://github.com/kfarleigh/AnolisSims){: .btn .btn--info .text-center}  <img src="/images/BASH_logo.png"  width="75px" height="50px">  <img src="/images/Python_logo.png"  width="75x" height="50px">
+[AnolisSims](https://github.com/kfarleigh/AnolisSims){: .btn .btn--info .text-center}  <img src="/images/BASH_logo.png"  width="100px" height="75px">  <img src="/images/Python_logo.png"  width="100px" height="75px">
 
 Scripts to automate demographic simulations in msprime. Scripts were developed to generate a null distribution to test for signals of differential introgression and were published in [Farleigh et al. (2023)](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17170).
 
-[Moments](https://github.com/kfarleigh/Moments){: .btn .btn--info .text-center}  <img src="/images/Python_logo.png"  width="75px" height="50px">
+[Moments](https://github.com/kfarleigh/Moments){: .btn .btn--info .text-center}  <img src="/images/Python_logo.png"  width="100px" height="75px">
 
 Python scripts and demographic models used to model the demographic history of 3 and 4 populations. These models were originally published in [Farleigh et al. (2021)](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16070).
 
