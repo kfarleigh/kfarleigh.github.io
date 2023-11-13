@@ -11,13 +11,17 @@ An R package to estimate commonly used population genomic statistics and to gene
 
 [HybridFindR](https://github.com/kfarleigh/HybridFindR){: .btn .btn--info .text-center}
 
-An R package to detect singals of differential introgression in hybrid individuals. This package is still under development and the associated paper is in review.
+An R package to detect signals of differential introgression in hybrid individuals. Published in [Farleigh et al. (2023)](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17170).
 
 ## Scripts and Workshop Code 
 
 [GEApermutation](https://github.com/kfarleigh/GEApermutation){: .btn .btn--info .text-center}
 
-Code to perform a statistical test to identify differential signals of local adaptation. This code will be public shortly, the paper was accepted 8/31/23.
+Code to perform a statistical test to identify differential signals of local adaptation. 
+
+[AnolisSims](https://github.com/kfarleigh/AnolisSims){: .btn .btn--info .text-center}
+
+Scripts to automate demographic simulations in msprime. Scripts were developed to generate a null distribution to test for signals of differential introgression and were published in [Farleigh et al. (2023)](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17170).
 
 [Moments](https://github.com/kfarleigh/Moments){: .btn .btn--info .text-center}
 
@@ -26,3 +30,4 @@ Python scripts and demographic models used to model the demographic history of 3
 [BioinformaticsBootcamp_2020](https://github.com/kfarleigh/BioinformaticsBootcamp_2020){: .btn .btn--info .text-center}
 
 A tutorial to perform genome-environment association analysis using data published in [Farleigh et al. (2021)](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16070). I presented this tutorial at the City University of New York Bioinformatics Bootcamp in the summer of 2020.
+

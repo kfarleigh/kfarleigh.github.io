@@ -3,7 +3,7 @@ title: "About"
 permalink: /about/
 ---
 ## Keaka Farleigh 
-### Ph.D. Candidate and NSF Graduate Research Fellow [CV](https://kfarleigh.github.io/CV/KFarleigh_CV_10-19-2023.pdf)
+### Ph.D. Candidate and NSF Graduate Research Fellow [CV](https://kfarleigh.github.io/CV/KFarleigh_CV_11-13-2023.pdf)
 [The Jezkova Lab](https://caloprymnus.com/), Miami University (OH)
 
 ### Education

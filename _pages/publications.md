@@ -11,7 +11,7 @@ author_profile: true
 
 Brunton, A.J., __Farleigh, K.__, Ogbourne, S.M., Rossetto, M., Schoeman, D.S., Conroy, G.C. The geno-geo-climate nexus: contributions of geographic and ecological factors in shaping the genomic divergence of two closely related threatened rainforest species of Fontainea Heckel (_Euphorbiaceae_). __*Accepted at Landscape Ecology*__.
 
-__Farleigh, K.__, Ascanio, A., Farleigh, M.E., Schield, D.R., Card, D.C., Leal, M., Castoe, T.A., ... & Rodriguez-Robles, J.A. Signals of differential introgression in the genome of natural hybrids of Caribbean anoles. __*Accepted at Molecular Ecology*__.
+__Farleigh, K.__, Ascanio, A., Farleigh, M.E., Schield, D.R., Card, D.C., Leal, M., Castoe, T.A., ... & Rodriguez-Robles, J.A. Signals of differential introgression in the genome of natural hybrids of Caribbean anoles. __*Molecular Ecology*__, 32(22), 6000-6017. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17170) [Sequence Data](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1023949)
 
 __Farleigh, K.__, & Jezkova, T. Genetic signals of local adaptation in a desert rodent that occupies diverse climates and habitats. __*In press at Landscape Ecology*__. [Link](https://www.ncbi.nlm.nih.gov/bioproject/780191) [Sequence Data](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1013576)
 
