@@ -8,6 +8,8 @@ author_profile: true
 [Google Scholar Profile](https://scholar.google.com/citations?user=ZKbwA2oAAAAJ&hl=en){: .btn .btn--info .text-center}
 
 ## 2023 
+Pavon-Vazquez, C.J., Rana, Q.,  __Farleigh, K.__, Crispo, E., Zeng, M., Liliah, J., ... Blair, C. Gene Flow and Isolation in the Arid Nearartic Revealed by Genomic Analyses of Desert Spiny Lizards.. __*Accepted at Systematic Biology*__.
+
 
 Brunton, A.J., __Farleigh, K.__, Ogbourne, S.M., Rossetto, M., Schoeman, D.S., Conroy, G.C. The geno-geo-climate nexus: contributions of geographic and ecological factors in shaping the genomic divergence of two closely related threatened rainforest species of Fontainea Heckel (_Euphorbiaceae_). __*Accepted at Landscape Ecology*__.
 
