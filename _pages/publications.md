@@ -17,7 +17,7 @@ Brunton, A.J., __Farleigh, K.__, Ogbourne, S.M., Rossetto, M., Schoeman, D.S., C
 
 __Farleigh, K.__, Ascanio, A., Farleigh, M.E., Schield, D.R., Card, D.C., Leal, M., Castoe, T.A., ... & Rodriguez-Robles, J.A. Signals of differential introgression in the genome of natural hybrids of Caribbean anoles. __*Molecular Ecology*__, 32(22), 6000-6017. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17170) [Sequence Data](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1023949)
 
-__Farleigh, K.__, & Jezkova, T. Genetic signals of local adaptation in a desert rodent that occupies diverse climates and habitats. __*Landsc Ecol*__, 38, 3269-3284 (2023). [Link](https://doi.org/10.1007/s10980-023-01774-z) [Sequence Data](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1013576)
+__Farleigh, K.__, & Jezkova, T. Genetic signals of local adaptation in a desert rodent that occupies diverse climates and habitats. __*Landscape Ecology*__, 38, 3269-3284 (2023). [Link](https://doi.org/10.1007/s10980-023-01774-z) [Sequence Data](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1013576)
 
 ## 2022
 
