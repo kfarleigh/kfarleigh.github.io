@@ -11,13 +11,15 @@ author_profile: true
 
 Pavon-Vazquez, C.J., Rana, Q.,  __Farleigh, K.__, Crispo, E., Zeng, M., Liliah, J., ... Blair, C. Gene Flow and Isolation in the Arid Nearartic Revealed by Genomic Analyses of Desert Spiny Lizards.. __*In press at Systematic Biology*__.
 
-Brunton, A.J., __Farleigh, K.__, Ogbourne, S.M., Rossetto, M., Schoeman, D.S., Conroy, G.C. The geno-geo-climate nexus: contributions of geographic and ecological factors in shaping the genomic divergence of two closely related threatened rainforest species of Fontainea Heckel (_Euphorbiaceae_). __*In press at Landscape Ecology*__.
+## 2024
+
+Brunton, A.J., __Farleigh, K.__, Ogbourne, S.M., Rossetto, M., Schoeman, D.S., Conroy, G.C. (2024). The geno-geo-climate nexus: contributions of geographic and ecological factors in shaping the genomic divergence of two closely related threatened rainforest species of Fontainea Heckel (_Euphorbiaceae_). __*Landscape Ecology*__, 39(11).[Link](https://doi.org/10.1007/s10980-024-01828-w)
 
 ## 2023
 
-__Farleigh, K.__, Ascanio, A., Farleigh, M.E., Schield, D.R., Card, D.C., Leal, M., Castoe, T.A., ... & Rodriguez-Robles, J.A. Signals of differential introgression in the genome of natural hybrids of Caribbean anoles (2023). __*Molecular Ecology*__, 32(22), 6000-6017. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17170) [Sequence Data](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1023949)
+__Farleigh, K.__, Ascanio, A., Farleigh, M.E., Schield, D.R., Card, D.C., Leal, M., Castoe, T.A., ... & Rodriguez-Robles, J.A. (2023). Signals of differential introgression in the genome of natural hybrids of Caribbean anoles. __*Molecular Ecology*__, 32(22), 6000-6017. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17170) [Sequence Data](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1023949)
 
-__Farleigh, K.__, & Jezkova, T. Genetic signals of local adaptation in a desert rodent that occupies diverse climates and habitats (2023). __*Landscape Ecology*__, 38, 3269-3284. [Link](https://doi.org/10.1007/s10980-023-01774-z) [Sequence Data](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1013576)
+__Farleigh, K.__, & Jezkova, T. (2023). Genetic signals of local adaptation in a desert rodent that occupies diverse climates and habitats. __*Landscape Ecology*__, 38, 3269-3284. [Link](https://doi.org/10.1007/s10980-023-01774-z) [Sequence Data](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1013576)
 
 ## 2022
 
