@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Keaka Farleigh"
   avatar           : /images/Headshot_2_cropped.PNG
-  bio              : "PhD candidate studying bioinformatics, data science, and population genomics"
-  location         : "Miami University (OH)"
+  bio              : "NSF Postdoctoral Fellow studying bioinformatics, data science, and population genomics"
+  location         : "University of Virginia"
   email            : "farleik@miamioh.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
