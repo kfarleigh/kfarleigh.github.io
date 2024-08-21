@@ -8,6 +8,7 @@ permalink: /about/
 
 ### Education
 Ph.D. – Ecology, Evolution, and Environmental Biology, Miami University (OH), 2024 
+
 B.A. – Biology, Capital University, 2018  
 
 ### Research Interests
