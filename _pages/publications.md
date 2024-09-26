@@ -12,9 +12,9 @@ author_profile: true
 
 ## 2024
 
-Hein, S. R., __Farleigh, K.__, & Berg, D. J. (2024). Riverscape genomics of the endangered freshwater mussel *Lampsilis rafinesqueana*. __*Freshwater Biology*__*, 69, 1438–1453.[Link](https://onlinelibrary.wiley.com/doi/full/10.1111/fwb.14317)
+Hein, S. R., __Farleigh, K.__, & Berg, D. J. (2024). Riverscape genomics of the endangered freshwater mussel *Lampsilis rafinesqueana*. __*Freshwater Biology*__, 69, 1438–1453.[Link](https://onlinelibrary.wiley.com/doi/full/10.1111/fwb.14317)
 
-Pavon-Vazquez, C.J., Rana, Q.,  __Farleigh, K.__, Crispo, E., Zeng, M., Liliah, J., ... Blair, C. Gene Flow and Isolation in the Arid Nearartic Revealed by Genomic Analyses of Desert Spiny Lizards.__*Systematic Biology__*, syae001. [Link](https://academic.oup.com/sysbio/article/73/2/323/7512966)
+Pavon-Vazquez, C.J., Rana, Q.,  __Farleigh, K.__, Crispo, E., Zeng, M., Liliah, J., ... Blair, C. Gene Flow and Isolation in the Arid Nearartic Revealed by Genomic Analyses of Desert Spiny Lizards.__*Systematic Biology*__, syae001. [Link](https://academic.oup.com/sysbio/article/73/2/323/7512966)
 
 Brunton, A.J., __Farleigh, K.__, Ogbourne, S.M., Rossetto, M., Schoeman, D.S., Conroy, G.C. (2024). The geno-geo-climate nexus: contributions of geographic and ecological factors in shaping the genomic divergence of two closely related threatened rainforest species of Fontainea Heckel (_Euphorbiaceae_). __*Landscape Ecology*__, 39(11).[Link](https://doi.org/10.1007/s10980-024-01828-w)
 
