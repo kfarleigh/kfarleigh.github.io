@@ -5,4 +5,4 @@ permalink: /contact/
 
 
 ### Email:
-[farleik(at)miamioh.edu](mailto:farleik@miamioh.edu)
+[keakafarleigh(at)virginia.edu](mailto:keakafarleigh@virginia.edu)
