@@ -3,7 +3,7 @@ title: "About"
 permalink: /about/
 ---
 ## Keaka Farleigh, Ph.D. 
-### NSF Postdoctoral Research Fellow [CV](https://kfarleigh.github.io/CV/KFarleigh_CV_3-18-2025.pdf)
+### NSF Postdoctoral Research Fellow [CV](https://kfarleigh.github.io/CV/KFarleigh_CV_8-12-2025.pdf)
 [The Schield Lab](https://schieldlab.org/), University of Virginia
 
 ### Education
