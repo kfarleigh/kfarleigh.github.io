@@ -9,9 +9,15 @@ author_profile: true
 
 ## _Accepted_ and  _In press_
 
-Murphy, M.O., __Farleigh, K.__, Jezkova T., Peterman, W.E., Boone, M.D. Land-cover patterns differentially affect population genetic structure and connectivity of two anurans. __*Accepted at Landscape Ecology*__.
+Prange, S., __Farleigh, K.__, & Anderson, C.S. Evaluation of genetic diversity, inbreeding, and gene flow in declining populations of the gray fox (_Urocyon cinereoargenteus_) in Ohio. __*Accepted at Ohio Journal of Science*__.
  
 ## 2025 
+
+Blair, C., Pavón-Vázquez, C., Rana, Q., __Farleigh, K.__, Crispo, E., Panzera, T., ... & Vazquez, U. G. (2025). Isolation and divergence of Greater Earless Lizards (Phrynosomatidae: _Cophosaurus_) in western North America support multiple diversification processes and indicate a cryptic species complex. __*Molecular Phylogenetics and Evolution*__, 108442. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1055790325001599)
+
+Schield, D.R., Carter, J.K., Alderman, M.G., __Farleigh, K.__, Highland, D.K., & Safran, R.J. (2025). Selection shapes repeated genomic landscapes of divergence across the speciation continuum in swallows (_Hirundo_). __*Molecular Ecology*__, 34(22), e70074. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.70074)
+
+Murphy, M.O., __Farleigh, K.__, Jezkova T., Peterman, W.E., Boone, M.D. Land-cover patterns differentially affect population genetic structure and connectivity of two anurans. __*Landscape Ecology*__, 40(74). [Link](https://link.springer.com/article/10.1007/s10980-025-02086-0)
 
 Bernstein, J.M., Francioli, Y.Z., Schield, D.R., Adams., R.H., Perry, B.W., __Farleigh, K.__, … & Castoe, T.A. Disentangling a genome-wide mosaic of conflicting phylogenetic signals in Western Rattlesnakes. __*Molecular Phylogenetics and Evolution*__, 108309.[Link](https://www.sciencedirect.com/science/article/abs/pii/S1055790325000260)
 
