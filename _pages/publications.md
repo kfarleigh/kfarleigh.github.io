@@ -9,6 +9,8 @@ author_profile: true
 
 ## _Accepted_ and  _In press_
 
+__Farleigh, K.__, Murphy, M.O., Blair, C., &  Jezkova, T. PopGenHelpR: An R package to streamline and facilitate informed population genomic analyses and visualization of genetic ancestry, diversity, and differentiation. __*Accepted at Molecular Ecology Resources*__.
+
 Prange, S., __Farleigh, K.__, & Anderson, C.S. Evaluation of genetic diversity, inbreeding, and gene flow in declining populations of the gray fox (_Urocyon cinereoargenteus_) in Ohio. __*Accepted at Ohio Journal of Science*__.
  
 ## 2025 
