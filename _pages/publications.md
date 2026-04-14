@@ -5,9 +5,11 @@ classes: wide
 author_profile: true
 ---
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=ZKbwA2oAAAAJ&hl=en){: .btn .btn--info .text-center}
+[Google Scholar Profile](https://scholar.google.com/citations?user=kf6jd_sAAAAJ&hl=en&oi=ao){: .btn .btn--info .text-center}
 
 ## _Accepted_ and  _In press_
+
+Bist, B.S., __Farleigh, K.__, Jimenez, A.F., Nielsen, C., & Jezkova, T. Phylogeographic structure and signals of selection provide insight into the range expansion of the nine-banded armadillo (_Dasypus novemcinctus_). __*Accepted at the Journal of Mammalogy*__.
 
 __Farleigh, K.__, Murphy, M.O., Blair, C., &  Jezkova, T. PopGenHelpR: An R package to streamline and facilitate informed population genomic analyses and visualization of genetic ancestry, diversity, and differentiation. __*Accepted at Molecular Ecology Resources*__.
 
