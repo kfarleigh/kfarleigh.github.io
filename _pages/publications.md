@@ -13,7 +13,7 @@ Prange, S., __Farleigh, K.__, & Anderson, C.S. Evaluation of genetic diversity, 
 
 ## 2026
 
-__Farleigh, K.__, Highland, D.K., Alderman, M.G., Francioli, Y.Z., Hirst, S.R., Faber, E.M., Perry, B.W., Holding, M.L., Castañeda-Gaytán, G., Borja, M., Franz-Chávez, H., Parkinson, C.L., Strickland, J.L., Margres, M.J., Mackessy, S.P., Meik, J.M., Castoe, T.A., & Schield, D.R. (2026) Evolution of genome-wide barriers to gene flow during complex speciation in rattlesnakes.__*Proceedings of the National Academy of Sciences*__, 123(21), e2609058123. [Link](https://doi.org/10.1073/pnas.2609058123) 
+__Farleigh, K.__, Highland, D.K., Alderman, M.G., Francioli, Y.Z., Hirst, S.R., Faber, E.M., Perry, B.W., Holding, M.L., Castañeda-Gaytán, G., Borja, M., Franz-Chávez, H., Parkinson, C.L., Strickland, J.L., Margres, M.J., Mackessy, S.P., Meik, J.M., Castoe, T.A., & Schield, D.R. (2026) Evolution of genome-wide barriers to gene flow during complex speciation in rattlesnakes. __*Proceedings of the National Academy of Sciences*__, 123(21), e2609058123. [Link](https://doi.org/10.1073/pnas.2609058123) 
 
 [*Media coverage on PNAS paper*](https://as.virginia.edu/news/rattlesnake-dna-offers-clues-one-evolutions-biggest-mysteries)
 
