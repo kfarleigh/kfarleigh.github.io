@@ -9,11 +9,17 @@ author_profile: true
 
 ## _Accepted_ and  _In press_
 
-Bist, B.S., __Farleigh, K.__, Jimenez, A.F., Nielsen, C., & Jezkova, T. Phylogeographic structure and signals of selection provide insight into the range expansion of the nine-banded armadillo (_Dasypus novemcinctus_). __*Accepted at the Journal of Mammalogy*__.
-
-__Farleigh, K.__, Murphy, M.O., Blair, C., &  Jezkova, T. PopGenHelpR: An R package to streamline and facilitate informed population genomic analyses and visualization of genetic ancestry, diversity, and differentiation. __*Accepted at Molecular Ecology Resources*__.
-
 Prange, S., __Farleigh, K.__, & Anderson, C.S. Evaluation of genetic diversity, inbreeding, and gene flow in declining populations of the gray fox (_Urocyon cinereoargenteus_) in Ohio. __*Accepted at Ohio Journal of Science*__.
+
+## 2026
+
+__Farleigh, K.__, Highland, D.K., Alderman, M.G., Francioli, Y.Z., Hirst, S.R., Faber, E.M., Perry, B.W., Holding, M.L., Castañeda-Gaytán, G., Borja, M., Franz-Chávez, H., Parkinson, C.L., Strickland, J.L., Margres, M.J., Mackessy, S.P., Meik, J.M., Castoe, T.A., & Schield, D.R. (2026) Evolution of genome-wide barriers to gene flow during complex speciation in rattlesnakes.__*Proceedings of the National Academy of Sciences*__, 123(21), e2609058123. [Link](https://doi.org/10.1073/pnas.2609058123) 
+
+[*Media coverage on PNAS paper*](https://as.virginia.edu/news/rattlesnake-dna-offers-clues-one-evolutions-biggest-mysteries)
+
+__Farleigh, K.__, Murphy, M.O., Blair, C., &  Jezkova, T. (2026). PopGenHelpR: An R package to streamline and facilitate informed population genomic analyses and visualization of genetic ancestry, diversity, and differentiation. __*Molecular Ecology Resources*__, e70142. [Link](https://doi.org/10.1111/1755-0998.70142.)
+
+Bist, B.S., __Farleigh, K.__, Jimenez, A.F., Nielsen, C., & Jezkova, T.  (2026). Phylogeographic structure and signals of selection provide insight into the range expansion of the nine-banded armadillo (_Dasypus novemcinctus_). __*Journal of Mammalogy*__, gyag032. [Link](https://doi.org/10.1093/jmammal/gyag032)
  
 ## 2025 
 
