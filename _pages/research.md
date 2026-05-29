@@ -11,4 +11,4 @@ _**Thank you for vising my website! I am currently updating it, so some things m
 
 2\. __*How does reproductive isolation evolve?*__ 
 
-3\. __*How can we incorporate bioinformatic training into curriculum and research to better prepare learners for modern biology?*__
+3\. __*How can we incorporate bioinformatic training into curriculum and research to better prepare learners for modern biology?*__ <img align="right" src="/images/Website_logos.png"  width="250px" height="250px">
