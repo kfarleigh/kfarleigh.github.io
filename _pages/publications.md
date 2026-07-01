@@ -17,9 +17,9 @@ __Farleigh, K.__, Highland, D.K., Alderman, M.G., Francioli, Y.Z., Hirst, S.R., 
 
 [*Media coverage on PNAS paper*](https://as.virginia.edu/news/rattlesnake-dna-offers-clues-one-evolutions-biggest-mysteries)
 
-__Farleigh, K.__, Murphy, M.O., Blair, C., &  Jezkova, T. (2026). PopGenHelpR: An R package to streamline and facilitate informed population genomic analyses and visualization of genetic ancestry, diversity, and differentiation. __*Molecular Ecology Resources*__, e70142. [Link](https://doi.org/10.1111/1755-0998.70142.)
+__Farleigh, K.__, Murphy, M.O., Blair, C., &  Jezkova, T. (2026). PopGenHelpR: An R package to streamline and facilitate informed population genomic analyses and visualization of genetic ancestry, diversity, and differentiation. __*Molecular Ecology Resources*__, 26(4), e70142. [Link](https://doi.org/10.1111/1755-0998.70142.)
 
-Bist, B.S., __Farleigh, K.__, Jimenez, A.F., Nielsen, C., & Jezkova, T.  (2026). Phylogeographic structure and signals of selection provide insight into the range expansion of the nine-banded armadillo (_Dasypus novemcinctus_). __*Journal of Mammalogy*__, gyag032. [Link](https://doi.org/10.1093/jmammal/gyag032)
+Bist, B.S., __Farleigh, K.__, Jimenez, A.F., Nielsen, C., & Jezkova, T.  (2026). Phylogeographic structure and signals of selection provide insight into the range expansion of the nine-banded armadillo (_Dasypus novemcinctus_). __*Journal of Mammalogy*__, 107(3), 546-556. [Link](https://doi.org/10.1093/jmammal/gyag032)
  
 ## 2025 
 
