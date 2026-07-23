@@ -14,8 +14,8 @@ B.A. – Biology, Capital University, 2018
 _**Thank you for vising my website! I am currently updating it, so some things may change but feel free to reach out if you have any questions or would like to chat.**_ 
 
 ### Research Interests
-- Local adaptation
-- Hybridization 
 - Speciation
 - Bioinformatics
+- Open-source software
+- Local adaptation
 - Population genomics
