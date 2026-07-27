@@ -15,4 +15,7 @@ https://kfarleigh.github.io/ResearchersGuideToPopulationGenomics/
 - Preface
 - Double digest restriction site associated DNA sequencing (ddRADseq) overview
 - RNA-seq pipeline
+- Introduction to R
+- Data wrangling with R
+- Data analysis and visualization in R
 
