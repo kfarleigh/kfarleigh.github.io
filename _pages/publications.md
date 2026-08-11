@@ -9,6 +9,8 @@ author_profile: true
 
 ## _Accepted_ and  _In press_
 
+Amoroso, J., __Farleigh, K.__, Crispo, E., & Blair, C. Understanding genomic landscapes of differentiation in round-tailed horned lizards (_Phrynosoma modestum_). __*Accepted at Genome Biology and Evolution*__.
+
 Prange, S., __Farleigh, K.__, & Anderson, C.S. Evaluation of genetic diversity, inbreeding, and gene flow in declining populations of the gray fox (_Urocyon cinereoargenteus_) in Ohio. __*Accepted at Ohio Journal of Science*__.
 
 ## 2026
