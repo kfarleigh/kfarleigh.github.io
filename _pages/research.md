@@ -7,6 +7,8 @@ I seek to understand how biodiversity arises and persists by investigating the e
 
 1\. __*Investigating the genomic basis of divergence with particular focus on the evolution of reproductive isolation and responses to environmental variation.*__
 
+<img align="right" src="/images/Farleigh_26_PNAS.png"  width="200px" height="300px">
+
 A central goal of my research program is to determine how reproductive isolation evolves across the speciation continuum. Theory predicts that reproductive isolation will evolve in different stages during speciation with gene flow. Initially, reproductive isolation will be largely influenced by a few divergent traits, before genes underlying these traits become associated (coupled) which strengthens the total amount of reproductive isolation between lineages (relative to their individual affects). While this theory has existed for some time, few studies have been able to test it. In [Farleigh et al. (2026)](https://www.pnas.org/doi/abs/10.1073/pnas.2609058123) we found evidence of these transitions in the evolution of reproductive isolation and provided an empirical framework to test these theoretical predictions. I am currently working on a project where I explore the initial stages of speciation and ask what forms of selection are acting to promote divergence and how the influences of different forms of selection change across the speciation continuum.
 
 <img align="right" src="/images/Farleigh_Jezkova_23_Fig1.png"  width="200px" height="300px">
