@@ -5,6 +5,10 @@ classes: wide
 ---
 
 ## R packages  <img src="/images/R_logo.png"  width="50px" height="50px">
+[ARGHelpR](https://kfarleigh.github.io/ARGHelpR/){: .btn .btn--info .text-center}
+
+An R package (still in development) to summarize and visualize ancestral recombination graphs. Users can also identify signatures of natural selection and introgression. 
+
 [PopGenHelpR](https://kfarleigh.github.io/PopGenHelpR/){: .btn .btn--info .text-center}
 
 An R package to estimate commonly used population genomic statistics and to generate publication quality figures. 
