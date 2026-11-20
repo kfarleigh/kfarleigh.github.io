@@ -109,9 +109,9 @@ analytics:
 author:
   name             : "Keaka Farleigh"
   avatar           : /images/Headshot_2_cropped.PNG
-  bio              : "NSF Postdoctoral Fellow studying bioinformatics, data science, and population genomics"
-  location         : "University of Virginia"
-  email            : "keakafarleigh@virginia.edu"
+  bio              : "Computational Scientist interested in bioinformatics, data science, and population genomics"
+  location         : "Virginia Tech"
+  email            : "kfarleigh@vt.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :

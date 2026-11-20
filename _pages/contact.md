@@ -5,4 +5,4 @@ permalink: /contact/
 
 
 ### Email:
-[keakafarleigh(at)virginia.edu](mailto:keakafarleigh@virginia.edu)
+[kfarleigh(at)vt.edu](mailto:kfarleigh@vt.edu)
